@@ -16,7 +16,7 @@ body {
 
 h1 {
   font-size: 80px;
-  color: #38a5ff ;
+  color: #38a5ff;
   text-align: center;
   text-shadow: 4px 4px black;
 }
@@ -359,4 +359,4 @@ form {
   
   input[type=submit]:hover {
     opacity: 0.8;
-  } */
+  }
