@@ -8,7 +8,7 @@
 
 body {
     font-family: "Barrio";
-    background-color: #ffe864;
+    background-color: #ffe364;
     text-align: center;
     padding-top: 1px;
 }
@@ -16,14 +16,14 @@ body {
 
 h1 {
   font-size: 80px;
-  color: hotpink ;
+  color: #38a5ff ;
   text-align: center;
   text-shadow: 4px 4px black;
 }
 h1.nombre{
     font-size: 80px;
     padding-left: 120px;
-    color: hotpink;
+    color: #38a5ff;
     letter-spacing: 20px;
     text-align: center;
     animation-name: abcd;
@@ -85,7 +85,8 @@ nav ul {
     width: 200px;
     height: 100%;
     position: fixed;
-    background-color: #38a5ff;
+    background-color: hotpink;
+    /* background-color: #38a5ff; */
   }
   
 nav li a {
