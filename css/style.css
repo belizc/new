@@ -16,9 +16,10 @@ body {
 
 h1 {
   font-size: 80px;
-  color: #38a5ff;
+  color: white;
   text-align: center;
   text-shadow: 4px 4px black;
+  background-color: hotpink;
 }
 h1.nombre{
     font-size: 80px;
@@ -85,7 +86,7 @@ nav ul {
     width: 200px;
     height: 100%;
     position: fixed;
-    background-color: hotpink;
+    background-color:#38a5ff;
     /* background-color: #38a5ff; */
   }
   
